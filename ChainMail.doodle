@@ -1,0 +1,761 @@
+{
+  "opperations": [
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "cube.groovy",
+        "location": {
+          "x": 10.0,
+          "y": 10.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 0.7071067811865476,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.7071067811865475
+          }
+        },
+        "preventBoM": false,
+        "name": "Elated_Ekranoplan_1uIERZyhih"
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -1.0,
+          "y": -5.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Elated_Ekranoplan_1uIERZyhih"
+        ],
+        "name": "Scintillating_Aerotrain_0yV43bqcnT"
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "cube.groovy",
+        "location": {
+          "x": 7.0,
+          "y": 19.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 0.7071067811865476,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.7071067811865475
+          }
+        },
+        "preventBoM": false,
+        "name": "Blooming_Sprite_JS5Ck1jd0P"
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Elated_Ekranoplan_1uIERZyhih"
+        ],
+        "name": "Peppy_Maglev_P8QDygRcMS"
+      }
+    },
+    {
+      "type": "Paste",
+      "data": {
+        "location": {
+          "x": 20.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Elated_Ekranoplan_1uIERZyhih"
+        ],
+        "name": "Glowing_Aerosled_4Sh0uwXT6G"
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -22.0,
+          "y": 35.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Glowing_Aerosled_4Sh0uwXT6G_1"
+        ],
+        "name": "Verdant_Cybertooth_qDY61a46eY"
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "cube.groovy",
+        "location": {
+          "x": 24.0,
+          "y": 18.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 0.7071067811865476,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.7071067811865475
+          }
+        },
+        "preventBoM": false,
+        "name": "Ingenious_Ifrit_09tw5bTrCc"
+      }
+    },
+    {
+      "type": "Paste",
+      "data": {
+        "location": {
+          "x": 20.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Ingenious_Ifrit_09tw5bTrCc"
+        ],
+        "name": "Shimmering_Warpod_0D4t0FAdyf"
+      }
+    },
+    {
+      "type": "Paste",
+      "data": {
+        "location": {
+          "x": 20.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Shimmering_Warpod_0D4t0FAdyf_1"
+        ],
+        "name": "Effervescent_Elemental_LQTlq2XK0J"
+      }
+    },
+    {
+      "type": "Paste",
+      "data": {
+        "location": {
+          "x": 20.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Effervescent_Elemental_LQTlq2XK0J_1"
+        ],
+        "name": "Creative_Hoversled_KZEclVsYAP"
+      }
+    },
+    {
+      "type": "Paste",
+      "data": {
+        "location": {
+          "x": 20.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Creative_Hoversled_KZEclVsYAP_1"
+        ],
+        "name": "Effulgent_Goliath_oyuBqhyFtf"
+      }
+    },
+    {
+      "type": "Allign",
+      "data": {
+        "names": [
+          "Elated_Ekranoplan_1uIERZyhih",
+          "Blooming_Sprite_JS5Ck1jd0P"
+        ],
+        "y": "negative",
+        "x": "middle",
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "bounds": {
+          "minx": 4.0,
+          "miny": 3.9999999999999982,
+          "minz": 0.0,
+          "maxx": 14.0,
+          "maxy": 24.0,
+          "maxz": 1.5
+        },
+        "name": "Vivid_Warpcraft_yrWcpzhc4w"
+      }
+    },
+    {
+      "type": "Group",
+      "data": {
+        "names": [
+          "Elated_Ekranoplan_1uIERZyhih",
+          "Blooming_Sprite_JS5Ck1jd0P"
+        ],
+        "groupID": "Majestic_Juggernaut_cneNP3GBVn",
+        "hull": false,
+        "intersect": false,
+        "name": "Ingenious_Vortexer_fq33sYVq03"
+      }
+    },
+    {
+      "type": "Allign",
+      "data": {
+        "names": [
+          "Majestic_Juggernaut_cneNP3GBVn",
+          "Glowing_Aerosled_4Sh0uwXT6G_1"
+        ],
+        "y": "positive",
+        "x": "middle",
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "bounds": {
+          "minx": 4.0,
+          "miny": 3.9999999999999982,
+          "minz": 0.0,
+          "maxx": 14.0,
+          "maxy": 13.999999999999998,
+          "maxz": 1.5
+        },
+        "name": "Zippy_Dragon_Pk7fhvoThX"
+      }
+    },
+    {
+      "type": "Group",
+      "data": {
+        "names": [
+          "Majestic_Juggernaut_cneNP3GBVn",
+          "Glowing_Aerosled_4Sh0uwXT6G_1"
+        ],
+        "groupID": "Energetic_Robot_YKGDPyzsKD",
+        "hull": false,
+        "intersect": false,
+        "name": "Chipper_Unicorn_XWFeUYNKPV"
+      }
+    },
+    {
+      "type": "Allign",
+      "data": {
+        "names": [
+          "Energetic_Robot_YKGDPyzsKD",
+          "Ingenious_Ifrit_09tw5bTrCc"
+        ],
+        "y": "positive",
+        "x": "positive",
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "bounds": {
+          "minx": 4.0,
+          "miny": 3.9999999999999982,
+          "minz": 0.0,
+          "maxx": 14.0,
+          "maxy": 14.0,
+          "maxz": 1.5
+        },
+        "name": "Creative_Cyborg_3g3m5Y75j7"
+      }
+    },
+    {
+      "type": "Group",
+      "data": {
+        "names": [
+          "Energetic_Robot_YKGDPyzsKD",
+          "Ingenious_Ifrit_09tw5bTrCc"
+        ],
+        "groupID": "Verdant_Griffin_IJy2DGAVQo",
+        "hull": false,
+        "intersect": false,
+        "name": "Bouncy_Automaton_MbUGx1aFaw"
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -36.0,
+          "y": 11.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Shimmering_Warpod_0D4t0FAdyf_1"
+        ],
+        "name": "Chirpy_Phoenix_r9XUK3fz8K"
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -54.0,
+          "y": 2.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Effervescent_Elemental_LQTlq2XK0J_1"
+        ],
+        "name": "Bright_Mech_xCTQ944aQh"
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -64.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Creative_Hoversled_KZEclVsYAP_1"
+        ],
+        "name": "Splendid_Kraken_eT0hWdFL9l"
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -77.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Effulgent_Goliath_oyuBqhyFtf_1"
+        ],
+        "name": "Mirthful_Chimera_H1aO16qres"
+      }
+    },
+    {
+      "type": "Allign",
+      "data": {
+        "names": [
+          "Verdant_Griffin_IJy2DGAVQo",
+          "Effervescent_Elemental_LQTlq2XK0J_1"
+        ],
+        "y": "positive",
+        "x": "negative",
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "bounds": {
+          "minx": 4.0,
+          "miny": 3.9999999999999982,
+          "minz": 0.0,
+          "maxx": 14.0,
+          "maxy": 14.0,
+          "maxz": 4.0
+        },
+        "name": "Sprightly_Golem_OeldF9T9rc"
+      }
+    },
+    {
+      "type": "Group",
+      "data": {
+        "names": [
+          "Verdant_Griffin_IJy2DGAVQo",
+          "Effervescent_Elemental_LQTlq2XK0J_1"
+        ],
+        "groupID": "Sprightly_Pegasus_50Wn3ej8B9",
+        "hull": false,
+        "intersect": false,
+        "name": "Grand_Android_If0xo72MFy"
+      }
+    },
+    {
+      "type": "Allign",
+      "data": {
+        "names": [
+          "Sprightly_Pegasus_50Wn3ej8B9",
+          "Shimmering_Warpod_0D4t0FAdyf_1"
+        ],
+        "y": "negative",
+        "x": "negative",
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "bounds": {
+          "minx": 4.0,
+          "miny": 3.9999999999999982,
+          "minz": 0.0,
+          "maxx": 14.0,
+          "maxy": 30.0,
+          "maxz": 4.0
+        },
+        "name": "Bountiful_Hydra_0fY8uPTMbl"
+      }
+    },
+    {
+      "type": "Group",
+      "data": {
+        "names": [
+          "Shimmering_Warpod_0D4t0FAdyf_1",
+          "Sprightly_Pegasus_50Wn3ej8B9"
+        ],
+        "groupID": "Resplendent_Centaur_WlfvWWWnVI",
+        "hull": false,
+        "intersect": false,
+        "name": "Wonderful_Drone_VkGXSj1fZP"
+      }
+    },
+    {
+      "type": "Allign",
+      "data": {
+        "names": [
+          "Resplendent_Centaur_WlfvWWWnVI",
+          "Creative_Hoversled_KZEclVsYAP_1"
+        ],
+        "y": "negative",
+        "x": "positive",
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "bounds": {
+          "minx": 4.0,
+          "miny": 3.999999999999999,
+          "minz": 0.0,
+          "maxx": 14.0,
+          "maxy": 14.0,
+          "maxz": 4.0
+        },
+        "name": "Brilliant_Sphinx_ENwuEaOasg"
+      }
+    },
+    {
+      "type": "Group",
+      "data": {
+        "names": [
+          "Resplendent_Centaur_WlfvWWWnVI",
+          "Creative_Hoversled_KZEclVsYAP_1"
+        ],
+        "groupID": "Fruitful_Exosuit_neIBD2hn17",
+        "hull": false,
+        "intersect": false,
+        "name": "Chirpy_Minotaur_gRZ2aRUrwF"
+      }
+    },
+    {
+      "type": "Allign",
+      "data": {
+        "names": [
+          "Fruitful_Exosuit_neIBD2hn17",
+          "Effulgent_Goliath_oyuBqhyFtf_1"
+        ],
+        "y": "middle",
+        "x": "middle",
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "bounds": {
+          "minx": 4.0,
+          "miny": 3.999999999999999,
+          "minz": 0.0,
+          "maxx": 14.0,
+          "maxy": 14.0,
+          "maxz": 4.0
+        },
+        "name": "Jaunty_Cyclops_gYNXnXb0uU"
+      }
+    },
+    {
+      "type": "Group",
+      "data": {
+        "names": [
+          "Effulgent_Goliath_oyuBqhyFtf_1",
+          "Fruitful_Exosuit_neIBD2hn17"
+        ],
+        "groupID": "Joyous_Hologram_c4saxHIH0I",
+        "hull": false,
+        "intersect": false,
+        "name": "Effervescent_Werewolf_OFQ0RGgOo4"
+      }
+    },
+    {
+      "type": "Paste",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Joyous_Hologram_c4saxHIH0I"
+        ],
+        "name": "Glowing_Nanobot_oHTrT8zPoZ"
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 13.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Glowing_Nanobot_oHTrT8zPoZ_15"
+        ],
+        "name": "Beaming_Gorgon_NRFlGFwZjc"
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -12.999999999999996,
+          "y": 31.000000000000007,
+          "z": 0.0,
+          "rotation": {
+            "w": 0.7071067811865475,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.7071067811865476
+          }
+        },
+        "names": [
+          "Glowing_Nanobot_oHTrT8zPoZ_15"
+        ],
+        "name": "Ingenious_Replicant_fWgkj1uYy1"
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 44.0,
+          "z": 4.00000000000001,
+          "rotation": {
+            "w": 2.220446049250313E-16,
+            "x": 1.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Glowing_Nanobot_oHTrT8zPoZ_15"
+        ],
+        "name": "Zippy_Banshee_s31tLDwel2"
+      }
+    },
+    {
+      "type": "Allign",
+      "data": {
+        "names": [
+          "Joyous_Hologram_c4saxHIH0I",
+          "Glowing_Nanobot_oHTrT8zPoZ_15"
+        ],
+        "y": "middle",
+        "x": "middle",
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "bounds": {
+          "minx": 4.0,
+          "miny": 3.999999999999999,
+          "minz": -2.6645352591003757E-15,
+          "maxx": 14.000000000000004,
+          "maxy": 27.0,
+          "maxz": 4.000000000000002
+        },
+        "name": "Plentiful_Hovercraft_o7FOQhaprY"
+      }
+    },
+    {
+      "type": "Group",
+      "data": {
+        "names": [
+          "Joyous_Hologram_c4saxHIH0I",
+          "Glowing_Nanobot_oHTrT8zPoZ_15"
+        ],
+        "groupID": "Amazing_Basilisk_xmUBV52bcz",
+        "hull": false,
+        "intersect": false,
+        "name": "Vivid_Jetpack_g3aWOGyb5M"
+      }
+    }
+  ],
+  "currentIndex": 35,
+  "timeCreated": -1,
+  "projectName": "Chain Mail",
+  "rulerLocation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    }
+  },
+  "workplane": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    }
+  }
+}
