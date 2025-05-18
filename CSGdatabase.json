@@ -1,0 +1,329 @@
+{
+  "Blooming_Sprite_JS5Ck1jd0P_CaDoodle_CubeGeneration_Sides": {
+    "name": "Blooming_Sprite_JS5Ck1jd0P_CaDoodle_CubeGeneration_Sides",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "32"
+    ],
+    "value": 8000
+  },
+  "Elated_Ekranoplan_1uIERZyhih_CaDoodle_CubeGeneration_Sides": {
+    "name": "Elated_Ekranoplan_1uIERZyhih_CaDoodle_CubeGeneration_Sides",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "32"
+    ],
+    "value": 8000
+  },
+  "Ingenious_Ifrit_09tw5bTrCc_CaDoodle_CubeGeneration_X": {
+    "name": "Ingenious_Ifrit_09tw5bTrCc_CaDoodle_CubeGeneration_X",
+    "options": [
+      "1",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "100"
+    ],
+    "value": 2000
+  },
+  "Ingenious_Ifrit_09tw5bTrCc_CaDoodle_CubeGeneration_Z": {
+    "name": "Ingenious_Ifrit_09tw5bTrCc_CaDoodle_CubeGeneration_Z",
+    "options": [
+      "1",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "100"
+    ],
+    "value": 4000
+  },
+  "Ingenious_Ifrit_09tw5bTrCc_CaDoodle_CubeGeneration_Y": {
+    "name": "Ingenious_Ifrit_09tw5bTrCc_CaDoodle_CubeGeneration_Y",
+    "options": [
+      "1",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "100"
+    ],
+    "value": 2000
+  },
+  "Elated_Ekranoplan_1uIERZyhih_CaDoodle_CubeGeneration_Round": {
+    "name": "Elated_Ekranoplan_1uIERZyhih_CaDoodle_CubeGeneration_Round",
+    "options": [
+      "0"
+    ],
+    "value": 0
+  },
+  "Elated_Ekranoplan_1uIERZyhih_CaDoodle_CubeGeneration_Chamfer": {
+    "name": "Elated_Ekranoplan_1uIERZyhih_CaDoodle_CubeGeneration_Chamfer",
+    "options": [
+      "0"
+    ],
+    "value": 0
+  },
+  "Elated_Ekranoplan_1uIERZyhih_CaDoodle_CubeGeneration_Y": {
+    "name": "Elated_Ekranoplan_1uIERZyhih_CaDoodle_CubeGeneration_Y",
+    "options": [
+      "1",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "100"
+    ],
+    "value": 2000
+  },
+  "Blooming_Sprite_JS5Ck1jd0P_CaDoodle_CubeGeneration_Round": {
+    "name": "Blooming_Sprite_JS5Ck1jd0P_CaDoodle_CubeGeneration_Round",
+    "options": [
+      "0"
+    ],
+    "value": 0
+  },
+  "Elated_Ekranoplan_1uIERZyhih_CaDoodle_CubeGeneration_Z": {
+    "name": "Elated_Ekranoplan_1uIERZyhih_CaDoodle_CubeGeneration_Z",
+    "options": [
+      "1",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "100"
+    ],
+    "value": 1500
+  },
+  "Elated_Ekranoplan_1uIERZyhih_CaDoodle_CubeGeneration_X": {
+    "name": "Elated_Ekranoplan_1uIERZyhih_CaDoodle_CubeGeneration_X",
+    "options": [
+      "1",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "100"
+    ],
+    "value": 12000
+  },
+  "Ingenious_Ifrit_09tw5bTrCc_CaDoodle_CubeGeneration_Chamfer": {
+    "name": "Ingenious_Ifrit_09tw5bTrCc_CaDoodle_CubeGeneration_Chamfer",
+    "options": [
+      "0"
+    ],
+    "value": 0
+  },
+  "Ingenious_Ifrit_09tw5bTrCc_CaDoodle_CubeGeneration_Round": {
+    "name": "Ingenious_Ifrit_09tw5bTrCc_CaDoodle_CubeGeneration_Round",
+    "options": [
+      "0"
+    ],
+    "value": 0
+  },
+  "Blooming_Sprite_JS5Ck1jd0P_CaDoodle_CubeGeneration_X": {
+    "name": "Blooming_Sprite_JS5Ck1jd0P_CaDoodle_CubeGeneration_X",
+    "options": [
+      "1",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "100"
+    ],
+    "value": 2000
+  },
+  "Blooming_Sprite_JS5Ck1jd0P_CaDoodle_CubeGeneration_Y": {
+    "name": "Blooming_Sprite_JS5Ck1jd0P_CaDoodle_CubeGeneration_Y",
+    "options": [
+      "1",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "100"
+    ],
+    "value": 12000
+  },
+  "Blooming_Sprite_JS5Ck1jd0P_CaDoodle_CubeGeneration_Z": {
+    "name": "Blooming_Sprite_JS5Ck1jd0P_CaDoodle_CubeGeneration_Z",
+    "options": [
+      "1",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "100"
+    ],
+    "value": 1000
+  },
+  "Ingenious_Ifrit_09tw5bTrCc_CaDoodle_CubeGeneration_Sides": {
+    "name": "Ingenious_Ifrit_09tw5bTrCc_CaDoodle_CubeGeneration_Sides",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "32"
+    ],
+    "value": 8000
+  },
+  "CaDoodle_File_Location": {
+    "options2": [],
+    "name": "CaDoodle_File_Location",
+    "options": [],
+    "strValue": "/home/hephaestus/Documents/bowler-workspace/gitcache/github.com/madhephaestus/ChainMail/ChainMail.doodle"
+  },
+  "Blooming_Sprite_JS5Ck1jd0P_CaDoodle_CubeGeneration_Chamfer": {
+    "name": "Blooming_Sprite_JS5Ck1jd0P_CaDoodle_CubeGeneration_Chamfer",
+    "options": [
+      "0"
+    ],
+    "value": 0
+  }
+}
